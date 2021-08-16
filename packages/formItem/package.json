@@ -1,5 +1,5 @@
 {
-  "name": "formItem",
+  "name": "tw-form-item",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "async-validator": "^4.0.1"
-  }
+  },
+  "gitHead": "3b094441ba6707ba80fd06a91540dd1fd7c4c4a4"
 }

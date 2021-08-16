@@ -1,5 +1,5 @@
 {
-  "name": "button",
+  "name": "tw-button",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "4"
-  }
+  },
+  "gitHead": "3b094441ba6707ba80fd06a91540dd1fd7c4c4a4"
 }
